@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088833581971",
+    "project_id": "lady-jud",
+    "storage_bucket": "lady-jud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088833581971:android:dc64aa463ae68f6368ee66",
+        "android_client_info": {
+          "package_name": "com.example.jud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088833581971-33siop4sbdju3nj2v5v8v76sam0kl101.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA50oD-2EbL-Y6M-WG392YJ-gRcvSNDTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088833581971-33siop4sbdju3nj2v5v8v76sam0kl101.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
